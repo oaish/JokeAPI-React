@@ -1,0 +1,8 @@
+@media (min-width: 801px) {
+  .grid-pc {
+    display: grid;
+    grid-template-columns: 70% 1fr;
+    grid-template-rows: 15% 1fr;
+    row-gap: 5%;
+  }
+}
